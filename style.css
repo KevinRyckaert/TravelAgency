@@ -112,7 +112,7 @@ header nav ul li a
 #main-image
 {
     height: 580px;
-    background: url('img/24.3\ main.jpg.jpg') center;
+    background: url('24.3\ main.jpg.jpg') center;
 }
 
 #main-image h2
@@ -170,17 +170,17 @@ header nav ul li a
 
 #steps-1
 {
-    background: url(img/24.1\ steps-icon-1.png.png) no-repeat top center;
+    background: url(24.1\ steps-icon-1.png.png) no-repeat top center;
 }
 
 #steps-2
 {
-    background: url(img/24.2\ steps-icon-2.png.png) no-repeat top center;
+    background: url(24.2\ steps-icon-2.png.png) no-repeat top center;
 }
 
 #steps-3
 {
-    background: url(img/24.5\ steps-icon-3.png.png) no-repeat top center;
+    background: url(24.5\ steps-icon-3.png.png) no-repeat top center;
 }
 
 /* POSSIBILITIES */
